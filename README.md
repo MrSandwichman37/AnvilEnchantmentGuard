@@ -2,13 +2,13 @@
 
 AnvilEnchantmentGuard is a lightweight Minecraft server plugin that prevents incompatible enchantments from being applied to items through anvils.
 
-## Features
+## Features:
 - Blocks incompatible enchantments.
 - Checks whether enchantments are valid for an item.
 - Prevents conflicting enchantments from being combined in anvils.
 - Lightweight and easy to install.
 
-## Requirements
+## Requirements:
 - Paper 26.3
 - Java 25
 
