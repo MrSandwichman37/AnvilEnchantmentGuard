@@ -1,0 +1,6 @@
+name: AnvilEnchantmentGuard
+version: '1.0.1'
+main: se.mrsandwich.anvilguard.AnvilEnchantmentGuard
+api-version: '26.3'
+author: MrSandwichman37
+description: Blocks incompatible enchantments in anvils
