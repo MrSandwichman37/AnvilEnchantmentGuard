@@ -17,6 +17,9 @@ AnvilEnchantmentGuard is a lightweight Minecraft server plugin that prevents inc
 2. Place it in your server's `plugins` folder.
 3. Restart your server.
 
+## Support me on patreon
+https://www.patreon.com/cw/mrsandwichman37
+
 ## Support
 If you encounter any issues, please report them through the project's issue tracker.
 Discord: https://discord.gg/5ubeUK9WQG
